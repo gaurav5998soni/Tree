@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Bfs {
+public class BFS {
 
     public static void main(String[] args) {
         System.out.println("Please enter value number of nodes");
